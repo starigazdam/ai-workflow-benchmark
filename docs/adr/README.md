@@ -27,8 +27,11 @@ choice in a new ADR and link the records together.
 Use zero-padded, monotonic identifiers and a short lowercase slug:
 `0001-reproducible-isolated-agent-evaluations.md`. Do not reuse an identifier.
 
-## Records
+## Template
 
-- [ADR-0000: Template](0000-template.md)
+- [ADR template (not a decision record)](0000-template.md)
+
+## Decision records
+
 - [ADR-0001: Reproducible isolated agent evaluations](0001-reproducible-isolated-agent-evaluations.md)
 - [ADR-0002: Keep public benchmark artifacts infrastructure-neutral](0002-public-artifacts-infrastructure-neutral.md)
