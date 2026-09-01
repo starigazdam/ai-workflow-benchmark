@@ -25,6 +25,11 @@ Given a **scenario** (repo + base commit + PRD + DoD unit tests) and one or more
 - **Run** — one (scenario × variant) execution; each run is isolated
 - **Report** — aggregated Markdown table + JSONL across all runs for a scenario
 
+## Architecture decisions
+
+Significant, durable decisions about benchmark methodology and project
+boundaries are recorded in [Architecture Decision Records](docs/adr/README.md).
+
 ## Related
 
 - [ai-workflow-runner](https://github.com/starigazdam/ai-workflow-runner) — the workflow execution engine this wraps
