@@ -33,4 +33,5 @@ credentials, or internal network information.
 ## Links
 
 - Issue: #2
+- Pull request: #3
 - [Project methodology](../../README.md)

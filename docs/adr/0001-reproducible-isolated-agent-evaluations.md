@@ -34,4 +34,5 @@ calls, and code-quality measurements comparable across variants.
 ## Links
 
 - Issue: #1
+- Pull request: #3
 - [Project methodology](../../README.md)
